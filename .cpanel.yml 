@@ -1,5 +1,5 @@
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/amanhwdn/public_html/repositories/mywebsite
+    - export DEPLOYPATH=/home/amanhwdn/repositories/mywebsite
     - /bin/cp -R * $DEPLOYPATH
     
