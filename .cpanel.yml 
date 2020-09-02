@@ -4,4 +4,3 @@ deployment:
     -export DEPLOYPATH=/home/amanhwdn/repositories/mywebsite
 - cp index.html $DEPLOYPATH
 - cp style.css $DEPLOYPATH 
-- /bin/cp -R * $DEPLOYPATH
