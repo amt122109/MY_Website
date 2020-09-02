@@ -1,6 +1,6 @@
 deployment:
   tasks:
     
-    -export DEPLOYPATH=/home/amanhwdn/repositories/mywebsite
+    -export DEPLOYPATH=/home/amanhwdn/public_html/repositories/mywebsite
 - cp index.html $DEPLOYPATH
 - cp style.css $DEPLOYPATH 
